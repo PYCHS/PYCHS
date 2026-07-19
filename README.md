@@ -9,7 +9,7 @@
 
 ## About Me
 
-- 💼 **Graphics Debug Engineer Intern at Intel**, working on AI-agent applications that streamline engineering workflows
+- 💼 **GPU Software Development Intern at Intel**, working on AI-agent applications that streamline engineering workflows
 - 🎓 Junior studying **Computer Science and Information Engineering** at **National Cheng Kung University**
 - 🌏 Completed **in-person computer science coursework through UC Berkeley Summer Sessions**
 - 🔬 Exploring **computer vision**, including multi-object tracking and pose completion under occlusion
