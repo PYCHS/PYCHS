@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Peng Yi Cheng 👋</h1>
 
-<h3 align="center">Graphics Debug Engineer Intern at Intel</h3>
+<h3 align="center">GPU Software Development Intern at Intel</h3>
 
 <p align="center">
   Computer Science student at National Cheng Kung University<br>
