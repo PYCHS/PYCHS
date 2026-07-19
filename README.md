@@ -45,3 +45,8 @@
 <p align="center">
   <i>Learning by building, measuring, and iterating.</i>
 </p>
+
+
+## 🔗 Connect with Me
+
+[LinkedIn](https://www.linkedin.com/in/yi-cheng-peng-8b8773286/) · [Instagram](https://www.instagram.com/ep._.42/)
