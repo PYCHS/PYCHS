@@ -1,51 +1,46 @@
-<h1 align="center">Hi, I'm Peng Yi Cheng 👋</h1>
-
-<h3 align="center">Senior CSIE Student @ NCKU · GPU Software Intern @ Intel</h3>
+<h1 align="center">Peng Yi Cheng</h1>
 
 <p align="center">
-  I build practical AI agents, multimodal systems, and software that solves real problems.<br>
-  Interested in the intersection of AI, computer vision, and systems engineering.
+  CSIE senior at National Cheng Kung University · GPU Software Intern at Intel
 </p>
-
-## About Me
-
-- 🎓 **Senior** majoring in **Computer Science and Information Engineering** at **National Cheng Kung University (NCKU)**.
-- 💼 **Graphics Debug Engineer Intern at Intel**, exploring AI-assisted workflows for GPU software debugging.
-- 🌏 Completed **in-person CS coursework at UC Berkeley Summer Sessions**.
-- 🔬 Working on **motion-language alignment and referring multi-object tracking**, with a broader interest in computer vision.
-- 🛠️ I enjoy taking AI ideas beyond notebooks into usable tools, from messaging assistants to developer workflows.
-
-## Selected Projects
-
-| Project | What I'm building / built |
-| --- | --- |
-| **[GMC-Link](https://github.com/PYCHS/GMC-Link)** | Research on referring multi-object tracking: ego-motion compensation, motion features, and contrastive motion-language alignment. |
-| **[LINE Family AI Assistant](https://github.com/PYCHS/Agent-in-line-group)** | An LLM-powered LINE group bot with Claude-based Q&A, cited web search, event tracking, and daily scheduled messages; built with Cloudflare Workers and D1. |
-| **[Watch Wisely · WIP](https://github.com/PYCHS/agentic-video-understanding)** | A budget-aware agent for video question answering that adaptively chooses which frames to inspect. Controller and tests are in progress; benchmark results are pending. |
-| **[Portfolio Digest LINE Bot](https://github.com/PYCHS/portfolio-digest-linebot)** | A Python service for daily financial-data digests, LLM-assisted news summaries, automated tests, and scheduled LINE delivery. |
-
-## What I'm Exploring
-
-- **AI agents:** tool calling, retrieval, orchestration, evaluation, and dependable integrations.
-- **Multimodal AI:** computer vision, motion-language representations, and efficient video understanding.
-- **Software systems:** APIs, automation, testing, and operational reliability.
-
-## Technical Toolkit
-
-**Languages:** `Python` · `C++` · `Java` · `C`
-
-**AI / CV:** `PyTorch` · `OpenCV` · `LLM APIs` · `Contrastive Learning` · `Object Tracking`
-
-**Engineering:** `Git` · `Linux` · `REST APIs` · `Docker` · `Cloudflare Workers` · `GitHub Actions`
-
-## Beyond Code
-
-🏸 NCKU varsity badminton team member and National Intercollegiate Athletic Games top-five finisher.
-
----
 
 <p align="center">
-  <i>Learning by building, measuring, and iterating.</i><br><br>
-  <a href="https://www.linkedin.com/in/yi-cheng-peng-8b8773286/">LinkedIn</a> ·
-  <a href="https://github.com/PYCHS?tab=repositories">Repositories</a>
+  <a href="https://www.linkedin.com/in/yi-cheng-peng-8b8773286/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://github.com/PYCHS?tab=repositories"><img src="https://img.shields.io/badge/Repositories-181717?style=flat&logo=github&logoColor=white" alt="Repositories"></a>
 </p>
+
+I build AI tools that people actually use, from LLM agents in chat apps to computer-vision research code. My current work sits between AI and systems: multimodal models, video understanding, and the engineering needed to make them dependable.
+
+## Now
+
+- **Intel**, GPU Software Intern: exploring AI-assisted workflows for graphics/GPU software debugging.
+- **NCKU CSIE research**: referring multi-object tracking, with a focus on motion-language alignment and camera ego-motion compensation.
+- **Course project**: budget-aware frame selection for video question answering.
+
+## Selected work
+
+| Project | Summary | Stack |
+| --- | --- | --- |
+| [**GMC-Link**](https://github.com/PYCHS/GMC-Link) | Plug-and-play module that compensates camera ego-motion so referring MOT models handle motion-related expressions better. | Python, PyTorch |
+| [**Watch Wisely**](https://github.com/PYCHS/agentic-video-understanding) *(in progress)* | Agent for video QA that decides which frames are worth inspecting under a compute budget. Controller and tests underway; benchmark results pending. | Python |
+| [**Portfolio Digest LINE Bot**](https://github.com/PYCHS/portfolio-digest-linebot) | Daily digest service that aggregates positions, cashflows, FX rates and news, adds LLM news-impact analysis, and delivers to LINE on a schedule. CI and automated tests. | Python, Anthropic API, GitHub Actions |
+| **LINE Family AI Assistant** | LINE group bot with Claude-based Q&A, cited web search, event tracking and scheduled daily messages. | Cloudflare Workers, D1 |
+| [**Bluetooth Obstacle-Avoiding Car**](https://github.com/PYCHS/Microprocessor) | Embedded firmware on a PIC18F4520: Bluetooth teleoperation over UART, ultrasonic collision override, interrupt-driven peripherals. | Embedded C, MPLAB X |
+| [**LLM Engineering Journey**](https://github.com/PYCHS/llm-engineering-journey) | Self-contained modules on RAG, prompt engineering, agents and evaluation, started during my Intel internship. | Python, LangChain, Chroma |
+
+## Toolkit
+
+**Languages** · Python, C, C++, Java
+
+**AI / CV** · PyTorch, OpenCV, CLIP, ByteTrack, LLM APIs (Anthropic, OpenAI, Gemini), LangChain
+
+**Engineering** · Linux, Git, FastAPI, REST APIs, Docker, GitHub Actions, Cloudflare Workers
+
+**Embedded** · PIC18 MCU, UART, timers and interrupts
+
+## Highlights
+
+- Outstanding Student for Academic Achievement, NCKU (Spring 2025, top 2% of department)
+- NCPC (National Collegiate Programming Contest) finalist
+- UC Berkeley Summer Session, CS61BL Data Structures (in person)
+- NCKU varsity badminton team; National Intercollegiate Athletic Games top-five finisher
